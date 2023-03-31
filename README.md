@@ -8,14 +8,14 @@
  I'm Kirill Taran Front-end developer from Ukraine.
 </h1>
 
-
-<div id="badges" align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/kirill-taran/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-    <img src="https://komarev.com/ghpvc/?username=thekirilltaran&style=flat-square&color=blue" height="28" alt="label"/>
+   <img src="https://komarev.com/ghpvc/?username=thekirilltaran&style=flat-square&color=blue" height="28" alt="label"/>
 </div>
 
+<br>
 
 <div align="center">
   <img width="600" height="300" src="https://media.giphy.com/media/l3V0DKL9Jhyz8nKog/giphy.gif"/>
