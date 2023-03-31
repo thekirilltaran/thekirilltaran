@@ -64,3 +64,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" title="HTML5" alt="HTML" width="15" height="15"/> 
 Nuxt-vue--markup
   </a>
+
+---
+
+### :writing_hand: Trophies :
+[![trophy](https://github-profile-trophy.vercel.app/?username=thekirilltaran&theme=dracula&margin-w=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
