@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/kirill-taran/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-    <img src="https://komarev.com/ghpvc/?username=taran-devG&style=flat-square&color=blue" height="28" alt="label"/>
+    <img src="https://komarev.com/ghpvc/?username=thekirilltaran&style=flat-square&color=blue" height="28" alt="label"/>
 </div>
 
 
@@ -54,14 +54,14 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=taran-devG&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thekirilltaran&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taran-devG&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thekirilltaranG&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ### :writing_hand: List of projects :
-<a href="https://github.com/taran-devG/Nuxt-vue--markup" target="_blank">
+<a href="https://github.com/thekirilltaran/Nuxt-vue--markup" target="_blank">
   <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" title="HTML5" alt="HTML" width="15" height="15"/> 
 Nuxt-vue--markup
   </a>
