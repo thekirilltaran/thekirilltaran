@@ -2,6 +2,12 @@
   <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="200"/>
 </div>
 
+<h1 align="center">
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+ I'm Kirill Taran Front-end developer from Ukraine.
+</h1>
+
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/kirill-taran/" target="_blank">
@@ -9,13 +15,6 @@
   </a>
     <img src="https://komarev.com/ghpvc/?username=thekirilltaran&style=flat-square&color=blue" height="28" alt="label"/>
 </div>
-
-
-<h1 align="center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
- I'm Kirill Taran Front-end developer from Ukraine.
-</h1>
 
 
 <div align="center">
