@@ -32,6 +32,14 @@
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-KirillTaran-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kirill-taran/)
 
+<p>I am a Software Engineer who specializes in building captivating web applications. As a frontend developer, I take pride in my ability to bring my clients' visions to life by crafting visually stunning interfaces and user experiences.</p>
+
+<p>But my love for technology doesn't stop at coding. I'm also passionate about sharing my knowledge with others, which is why I've recently started exploring technical content writing. Whether it's a tutorial on how to use the latest JavaScript framework or an in-depth analysis of the newest web design trends, I love to share my insights with the world.</p>
+
+<p>Of course, I'm not all work and no play! In my free time, you can find me tackling challenging problems on CodeWars and GeeksforGeeks or diving into the latest tech articles to keep myself up-to-date with the industry's ever-evolving landscape.</p>
+
+<p>If you're interested in connecting with me, feel free to reach out on LinkedIn. I'm always open to new opportunities and meeting like-minded professionals in the tech space.</p>
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
