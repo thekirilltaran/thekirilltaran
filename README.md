@@ -67,13 +67,25 @@
 
 ---
 
-### :writing_hand: List of projects :
-<a href="https://github.com/thekirilltaran/Nuxt-vue--markup" target="_blank">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" title="HTML5" alt="HTML" width="15" height="15"/> 
-Nuxt-vue--markup
-  </a>
+### :clipboard: List of projects :
+* <a href="https://github.com/thekirilltaran/Nuxt-vue--markup" target="_blank">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" title="nuxt" alt="nuxt" width="15" height="15"/> 
+  Nuxt-vue--markup
+</a>
 
+* <a href="https://github.com/thekirilltaran/html5-css3-js_credit" target="_blank">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="15" height="15"/> 
+  Html5/Css3/Js Credit
+</a>
+
+### :clipboard: List of documentations :
+* <a href="https://github.com/thekirilltaran/gulp-settings" target="_blank">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" title="gulp" alt="gulp" width="15" height="15"/> 
+  Gulp settings
+</a>
+
+ 
 ---
 
-### :writing_hand: Trophies :
+### :trophy: Trophies :
 [![trophy](https://github-profile-trophy.vercel.app/?username=thekirilltaran&theme=dracula&margin-w=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
