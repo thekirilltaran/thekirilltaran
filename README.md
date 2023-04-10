@@ -68,9 +68,19 @@
 ---
 
 ### :clipboard: List of projects :
-* <a href="https://github.com/thekirilltaran/Nuxt-vue--markup" target="_blank">
+* <a href="https://github.com/thekirilltaran/vue-nuxt_slots-partners" target="_blank">
   <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" title="nuxt" alt="nuxt" width="15" height="15"/> 
-  Nuxt-vue--markup
+  Vue-nuxt_slots-partners
+</a>
+
+* <a href="https://github.com/thekirilltaran/react_store" target="_blank">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react" alt="react" width="15" height="15"/> 
+  React_store
+</a>
+
+* <a href="https://github.com/thekirilltaran/react_search-bar" target="_blank">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react" alt="react" width="15" height="15"/> 
+  React_search-bar
 </a>
 
 * <a href="https://github.com/thekirilltaran/html5-css3-js_credit" target="_blank">
